@@ -2,6 +2,7 @@ MikugoTranslator
 ================
 
 ミク語変換 (http://aikelab.net/mikugo/) を利用するためのラッパーライブラリ。
+
 現状では、「長音を直前の母音に変換する」「文節を区切る」「ローマ字変換」にパラメータを固定。
 
 ## Requirements
