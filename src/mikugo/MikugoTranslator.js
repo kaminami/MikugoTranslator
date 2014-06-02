@@ -3,7 +3,6 @@ var Mikugo
 (function(Mikugo) {
     var Translator = (function() {
         function Translator() {
-
         };
 
         Translator.prototype.requestUrl = function(sentence) {
