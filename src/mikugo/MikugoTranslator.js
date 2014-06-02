@@ -18,8 +18,6 @@ var Mikugo
             var encodedSentence = encodeURIComponent(sentence);
 
             var requestUrl = url + '?' + options.join('&') + '&sentence=' + encodedSentence;
-
-            console.log(requestUrl);
             return requestUrl;
         };
 
